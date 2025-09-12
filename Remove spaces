@@ -1,0 +1,4 @@
+       
+sentence = "Practice sentence for removing spaces"
+noSpaces = sentence.replace(" ", "")
+print(noSpaces)

@@ -1,0 +1,2 @@
+def twice_as_old(DadAge, SonAge):
+    return abs(DadAge - 2 * SonAge)

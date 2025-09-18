@@ -1,2 +1,2 @@
-def is_uppercase(inp):
-    return not any(x.islower() for x in inp)
+def summation(num):
+    return sum(range(1,num + 1))
